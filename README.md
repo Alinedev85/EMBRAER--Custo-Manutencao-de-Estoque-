@@ -5,7 +5,7 @@
 Bem-vindo ao projeto, como Cientistas de Dados, exploramos o impacto significativo das condições geopolíticas durante o período de guerra na Rússia nas operações logísticas relacionadas às placas de ligas de titânio. Este estudo foi conduzido com o objetivo de entender como eventos geopolíticos podem afetar diretamente os processos e, por conseguinte, influenciar os dados apresentados em nosso dashboard para Embraer.
 
 ### Geração de Dados Fictícios
-Para simular e analisar o impacto desses eventos, optamos por gerar dados fictícios que refletem as complexidades logísticas enfrentadas durante esse período crítico. Utilizamos uma variedade de ferramentas e técnicas, incluindo Python para a geração de dados aleatórios e a manipulação desses dados para refletir cenários realistas.
+Para simular e analisar o impacto desses eventos, geramos dados fictícios que refletem as complexidades logísticas enfrentadas durante esse período crítico. Utilizamos uma variedade de ferramentas e técnicas, incluindo Python para a geração de dados aleatórios e a manipulação desses dados para refletir cenários reais.
  
 ### Analistas 
 
